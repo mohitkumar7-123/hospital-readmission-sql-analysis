@@ -93,8 +93,7 @@ psql command-line tool
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/hospital-readmission-analysis.git
-cd hospital-readmission-analysis
+git clone https://github.com/mohitkumar7-123/hospital-readmission-sql-analysis.git
 ```
 
 2. **Create database**
