@@ -1497,7 +1497,7 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-For questions or collaboration: [your.email@example.com]
+For questions or collaboration: mohitkumarbarh@gmail.com
 
 ---
 
